@@ -8,7 +8,7 @@ from cvzone.HandTrackingModule import HandDetector
 screen_width, screen_height = 1000, 600
 cv2.namedWindow("Image", cv2.WINDOW_NORMAL)
 cv2.resizeWindow("Image", screen_width, screen_height)
-url = "https://192.168.43.43:8080/video"
+url = "https://192.168.43.43:8080/video"  # change it from your ip of webcame, dont have app: https://play.google.com/store/apps/details?id=com.pas.webcam
 cap = cv2.VideoCapture(url)
 cap.set(cv2.CAP_PROP_FPS, 30)
 # cap.set(3,1280)
