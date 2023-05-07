@@ -8,8 +8,8 @@ Try to eat as much food as possible and avoid colliding with the snake's body or
 Press 'q' to quit the game and 'r' to restart the game after Game Over
 
 # Requirements
-Python 3.x #
-OpenCV #
-numpy #
-math #
-cvzone #
+# Python 3.x #
+# OpenCV #
+# numpy #
+# math #
+# cvzone #
