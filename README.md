@@ -1,4 +1,7 @@
 # Snake Game using Hand Tracking
+
+https://user-images.githubusercontent.com/88562515/236703170-0256f3ec-0a73-4ca1-8a20-f3706a67dd18.mp4
+
 This is a Snake Game that can be played using hand tracking with the help of the cvzone library. The game is created using OpenCV, numpy and math libraries in Python. The HandDetector class from cvzone is used to detect the hand and track the movements of the player's finger.
 
 Instructions
