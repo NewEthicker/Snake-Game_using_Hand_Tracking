@@ -7,9 +7,9 @@ Hold your hand in front of the camera and use your finger to control the snake m
 Try to eat as much food as possible and avoid colliding with the snake's body or the walls
 Press 'q' to quit the game and 'r' to restart the game after Game Over
 
-## Requirements
-# Python 3.x #
-# OpenCV #
-# numpy #
-# math #
-# cvzone #
+# Requirements
+## Python 3.x #
+## OpenCV #
+## numpy #
+## math #
+## cvzone #
